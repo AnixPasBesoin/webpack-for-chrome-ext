@@ -1,7 +1,7 @@
 {
   "name": "webpack-for-chrome-ext",
   "version": "0.0.0",
-  "description": "",
+  "description": "A minimalist boilerplate code for your next Chrome Extension project using Webpack",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
